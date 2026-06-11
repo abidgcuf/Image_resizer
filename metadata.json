@@ -1,0 +1,6 @@
+{
+  "name": "Image Resizer",
+  "description": "A modern SaaS-inspired client-side image editing, resizing, background replacement, and file size optimization tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
